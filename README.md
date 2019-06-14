@@ -1,3 +1,4 @@
 # hello-world
-just another repository
+study in guangdong university of technology
+
 
